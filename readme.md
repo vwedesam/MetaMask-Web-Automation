@@ -33,3 +33,8 @@ export META_MASK_PASSWORD = ""
 export CONTRACT_ADDRESS = ""
 
 ```
+
+## Demo
+(https://youtu.be/XeiNACWNXYE)
+## Screenshot
+![turn on test network](https://github.com/vwedesam/MetaMask-Web-Automation/blob/main/metamask-web-automation-turn-on-test-network.png)
